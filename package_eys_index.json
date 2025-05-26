@@ -12,7 +12,7 @@
           "category": "ESP32",
           "url": "https://github.com/MusashiMiyamoto49/ESP32_C6_MINI_1_UA_IUT_EYS/raw/refs/heads/main/ESP32_C6_MINI_1_UA_IUT.zip",
           "archiveFileName": "ESP32_C6_MINI_1_UA_IUT.zip",
-          "checksum": "SHA-256:e1789b581a48ed49fb7dd4f4b9d82dd23872d0ec3732e3701e873f577d178fb9",
+          "checksum": "SHA-256:4801fa27f58f92a52e3e8cc22d72abfad5e21dcd67a68dd750df81579f32bbe7",
           "size": 25447648,
           "boards": [
             {
