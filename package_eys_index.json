@@ -1,0 +1,33 @@
+{
+  "packages": [
+    {
+      "name": "eys",
+      "maintainer": "IUT Angers",
+      "websiteURL": "https://lucidar.me/fr/",
+      "platforms": [
+        {
+          "name": "ESP32_C6_MINI_1_UA_IUT_EYS",
+          "architecture": "esp32",
+          "version": "3.2.0",
+          "category": "ESP32",
+          "url": "https://github.com/MusashiMiyamoto49/ESP32_C6_MINI_1_UA_IUT_EYS/raw/refs/heads/main/ESP32_C6_MINI_1_UA_IUT.zip",
+          "archiveFileName": "ESP32_C6_MINI_1_UA_IUT.zip",
+          "checksum": "SHA-256:e1789b581a48ed49fb7dd4f4b9d82dd23872d0ec3732e3701e873f577d178fb9",
+          "size": 25447648,
+          "boards": [
+            {
+              "name": "ESP32_C6_MINI_1_UA_IUT_EYS"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "esp32",
+              "name": "esptool_py",
+              "version": "4.9.dev3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
