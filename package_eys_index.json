@@ -10,7 +10,7 @@
           "architecture": "esp32",
           "version": "3.2.0",
           "category": "ESP32",
-          "url": "https://github.com/MusashiMiyamoto49/ESP32_C6_MINI_1_UA_IUT_EYS/raw/refs/heads/main/ESP32_C6_MINI_1_UA_IUT.zip",
+          "url": "https://github.com/cinqlair/esp32-c6-mini/raw/refs/heads/main/ESP32_C6_MINI_1_UA_IUT.zip",
           "archiveFileName": "ESP32_C6_MINI_1_UA_IUT.zip",
           "checksum": "SHA-256:e0915c51c18eb2edf94136a89f9e02a714292ddb5c71be0fcb87a2f2ccd6430f",
           "size": 20606437,
